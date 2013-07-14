@@ -4,9 +4,10 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>Style Prototyping</title>
+		<title>Responsive Ads</title>
 
-		<meta name="description" content="Style Prototyping">
+		<meta name="description" content="Responsive Ads">
+		<meta name="author" content="Chris Strahl">
 		<meta name="author" content="Sam Richard">
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
@@ -44,12 +45,17 @@
 			<div class="slides">
 
 				<section>
-					<h1>Style Prototyping</h1>
-					<!-- <h4>Come On, Get Sassy</h4> -->
+					<h1>Responsive Ads</h1>
+
+					<p>A look at a new specification for HTML5 Responsive Ads</p>
+					<p>DrupalCamp NYC Responsive Ad Sprint</p>
+					<img src="images/nyccamp.min.svg" alt="NYC Camp">
+
+					<p class="small">July 14, 2013</p>
 				</section>
 
-				<section id="me">
-					<h2>Who Am I?</h2>
+				<section id="presenters">
+					<h2>Who Are We</h2>
 
 					<ul class="fragments small">
 						<li class="fragment">Sam Richard</li>
@@ -60,227 +66,100 @@
 				</section>
 
 				<section>
-					<section id="not-like-the-other">
-						<audio id="belong-song" src="videos/belong.mp3" preload="auto">
-							<h2>One of These Things Is Not Like The Other</h2>
-						</audio>
-						<div class="not-container">
-							<img src="images/photoshop.png" alt="Photoshop">
-							<img src="images/tractor.png" alt="Tractor">
-							<img src="images/chrome.png" alt="Google Chrome">
-							<img src="images/illustrator.png" alt="Illustrator">
-						</div>
-					</section>
-					<section id="chrome">
-						<h2 class="fragment">The Answer Is…</h2>
-						<img class="fragment" src="images/chrome.png" alt="Google Chrome">
-						<h2 class="fragment">The Only Web Design Tool</h2>
-					</section>
-				</section>
-				<section class="quote" id="laser-printer">
-					<blockquote cite="http://karenmcgrane.com/2013/05/23/drupalcon-keynote-video-and-talk-notes/">
-						<p>Guess what. The web’s not a laser printer.</p>
-						<b>Karen McGrane</b>
-					</blockquote>
-				</section>
-				<section>
-					<section id="print-tools">
-						<h2>These are Graphic Design Tools</h2>
-						<div class="not-container">
-							<img class="fragment" src="images/photoshop.png" alt="Photoshop">
-							<img class="fragment" src="images/illustrator.png" alt="Illustrator">
-						</div>
-					</section>
-					<section id="farming-tool">
-						<h2>This is a Farming Tool</h2>
-						<img src="images/tractor.png" alt="Tractor">
-					</section>
+					<section id="state-of-responsive-ads">
+						<h2>What we have:</h2>
 
-				</section>
-					<section id="wrong-tools">
-						<h2>While you may be able to hammer in a screw, it's the wrong tool for the job</h2>
+							<p class="fragment">Making it "good enough" w/o responsive ads</p>
+							<p class="fragment">User Agent Sniffing</p>
+							<p class="fragment">Ad Swapping</p>
+							<p class="fragment">Ad Stretching</p>
+						<br><br>
+
+						<h2 class="fragment">What we'd like:</h2>
+							<p class="fragment">Fully Responsive Ads</p>
+							<p class="fragment">HTML5 and CSS3 based ads</p>
+							<p class="fragment">Interactive Ads</p>
 					</section>
-					<section id="right-tools">
-						<h2>Pick the right tool for the job.</h2>
-					</section>
-					<section id="hammer">
-						<h2>Don't be the farmer with a hammer and a box of screws</h2>
+					<section id="big-problems">
+						<h2>The Big Problems</h2>
+						<p>How do we deliver a strong and scalable experience based on the platform being used?</p>
+						<p class="fragment">Can we deliver this experience based on a set of established best practices?</p>
+						<p class="fragment">How do we improve the way that users are able to interact with advertisements regardless of the platform?</p>
+						<p class="fragment">How can me marry ad best practices with those being used for responsive design?</p>
 					</section>
 				</section>
 
 				<section>
-					<section id="page-metaphore" data-state="experiment">
-						<h1>The Page Metaphor Is Killing The Web</h1>
+					<section id="html5">
+						<h2>Why HTML5</h2>
+						<p>Provides a wide range of design and interactive capabilities</p>
+						<p class="fragment">Has eclipsed other solutions in terms of click rate</p>
+						<p class="fragment">Impressions can be tracked on all platforms</p>
+						<p class="fragment">Has accessibility options</p>
 					</section>
-					<section id="systems-of-style">
-						<h1>We need to build Systems of Style</h1>
-					</section>
-					<section id="in-browser">
-						<h1>We need to build them In Browser</h1>
-					</section>
-					<section id="tools-of-web-design">
-						<h1>With the tools of web design</h1>
+					<section id="not-flash">
+						<h2>Why Not Flash</h2>
+						<p>Not platform agnostic</p>
+						<p>Requires a plugin to function</p>
 					</section>
 				</section>
 
-				<section id="html5" data-source="http://www.w3.org/html/logo/" data-cite="W3C">
-					<img src="images/HTML5_Logo.svg" alt="HTML5">
-					<div><img src="images/html5-logo/html5_3d_effects.svg" alt="3D Effects">
-					<img src="images/html5-logo/html5_connectivity.svg" alt="Connectivity">
-					<img src="images/html5-logo/html5_css3_styling.svg" alt="CSS3 Styling">
-					<img src="images/html5-logo/html5_device_access.svg" alt="Device Access">
-					<img src="images/html5-logo/html5_multimedia.svg" alt="Multimedia">
-					<img src="images/html5-logo/html5_offline_storage.svg" alt="3D Offline Storage">
-					<img src="images/html5-logo/html5_perfintegration.svg" alt="Performance and Integration">
-					<img src="images/html5-logo/html5_semantics.svg" alt="Semantics"></div>
+				<section id="rwd">
+					<h2>What is Responsive Web Design?</h2>
+					<p>Responsive Web Design (RWD) is an approach to web development that adjusts to the user's platform. Websites can be viewed on a multitude of platforms, each with their own parameters and constraints. Responsive design allows for design attributes (i.e., images, type, grids) to become platform agnostic.</p>
+				</section>
+
+				<section id="silver-bullet">
+					<h1>There Are No Silver Bullets</h1>
 				</section>
 
 				<section>
-					<section id="design-focus">
-						<h1>Design Focus</h1>
+					<section id="approach">
+						<h2>Approach</h2>
+						<p>We wanted to create a standard approach to this problem. It includes a combination of technology:</p><br>
+						<p class="fragment">iframes</p>
+						<p class="fragment">Intrinsic Ratios</p>
+						<p class="fragment">Media Queries</p>
+						<p class="fragment">HTML5/CSS3</p>
 					</section>
-					<section id="maslow-needs" data-source="http://creativecommons.org/licenses/by-sa/3.0" data-cite="Factoryjoe, via Wikimedia Commons">
-						<img src="images/Mazlow's_Hierarchy_of_Needs.svg" alt="">
-					</section>
-					<section id="website-needs" data-source="http://kristoferlayon.files.wordpress.com/2012/03/klayonsxsw2012.pdf" data-cite="Inspired by Kristofer Layon">
-						<img src="images/Website_Hierarchy.svg" alt="">
-					</section>
-					<section id="needs-redux">
-						<p>Users come to your site for the content, so you should design content first.</p><br>
-						<p class="fragment">Your content and your site needs to be predictable in order to be useful.</p><br>
-						<p class="fragment">Your site needs to be fast and reliable in order to be usable.</p><br>
-						<p class="fragment">You need a style that will reflect your brand and can be carried from your content up</p>
-					</section>
-					<section id="flair">
-						<h2>Only after all other needs have been met should you focus on visual flair</h2>
-					</section>
-					<section id="nega-flair">
-						<h2>Visual flair should not negatively effect any of the other needs</h2>
-					</section>
-				</section>
-
-				<section>
-					<section id="designing-content">
-						<h1>Designing Content</h1>
-					</section>
-					<section id="style-tiles">
-						<h2>Style Tiles</h2>
-						<p><a href="http://styletil.es/">Style Tiles</a> provide a way for you to suss out branding in a content-driven way</p><br>
-					</section>
-					<section id="tile-patterns">
-						<h2>Style Tiles are driven by text, colors, patterns, and adjectives</h2>
-					</section>
-					<section id="in-browser-tile">
-						<h2>This is trivial to do in browser</h2>
-					</section>
-					<section id="html-style-tile-large">
-						<img src="images/style-tile-04.png" alt="Extra Large Style Tile">
-					</section>
-					<section id="responsive-tile">
-						<h2>Plus, you can do responsively!</h2>
-					</section>
-					<section id="html-style-tile-responsive">
-						<img src="images/style-tile-01.png" alt="Small Style Tile">
-						<img src="images/style-tile-02.png" alt="Medium Style Tile">
-						<img src="images/style-tile-03.png" alt="Large Style Tile">
-						<img src="images/style-tile-04.png" alt="Extra Large Style Tile">
-					</section>
-					<section id="webfonts">
-						<p>By designing our content in-browser, we're able to use real web fonts with real web rendering and kerning across multiple platforms</p><br>
-						<p class="fragment">We are also able to see immediately how our typography decision affect performance</p>
-					</section>
-					<section id="typography">
-						<img src="images/typography.png" alt="Typography">
+					<section id="approach-details">
+						<h2>Approach Details</h2>
+						<h4 class="fragment">Rich Media</h4><br>
+						<p class="fragment">HTML5 video for cross-browser playback</p>
+						<p class="fragment">Responsive content for most valuable impact at any size</p>
+						<br><h4 class="fragment">Interactive</h4><br>
+						<p class="fragment">Cross-browser CSS animation w/o Flash</p>
+						<p class="fragment">Responsive animations</p>
+						<p class="fragment">HTML5 Geo-location API</p>
+						<p class="fragment">Mapping API integration</p>
+						<p class="fragment">Commerce Integration</p>
 					</section>
 				</section>
 
-				<section>
-					<section id="designing-baselines">
-						<h1>Designing Baselines</h1>
-					</section>
-					<section id="style-guides">
-						<h2>Style Guides</h2>
-						<p>By designing a <a href="http://bradfrostweb.com/blog/post/atomic-web-design/#atoms">style guide</a>, we are able to create a site-specific <a href="http://meyerweb.com/eric/tools/css/reset/">CSS Reset</a></p><br>
-						<p class="fragment">Makes sure that all native elements have baseline styles.</p><br>
-						<p class="fragment">All larger components are pieces of smaller native elements</p>
-					</section>
-					<section id="style-guide">
-						<img src="images/style-guide.png" alt="Style Guide">
-					</section>
+				<section id="examples">
+					<h2><a href="http://dbtv.nbcuni.com/ads/new-video">Rich Media Capabilities</a></h2>
+					<h2 class="fragment"><a href="http://dbtv.nbcuni.com/ads/new-rwd">Interactive Capabilities</a></h2>
 				</section>
 
-				<section>
-					<section id="designing-systems">
-						<h1>Designing Systems</h1>
-					</section>
-					<section id="component-guide">
-						<h2>Component Guides</h2>
-						<p><a href="http://cognition.happycog.com/article/sweet-systems">Component Guides</a> are a must for being able to provide consistency for your users</p>
-						<p class="fragment">Similar pattern with different flair reduce cognitive load, making your site easier to use</p>
-					</section>
-					<section id="carousel">
-						<img src="images/carousel.jpeg" alt="Carousel">
-					</section>
-					<section id="carsouels">
-						<img src="images/carousel-more.jpeg" alt="Carousels">
-					</section>
-					<section id="components">
-						<p>We can create a generalized set of markup, apply CSS and JavaScript, and have a reusable component for our site</p>
-					</section>
-					<section id="component">
-						<img src="images/carousel-component-01.png" alt="Carousel Component">
-					</section>
-					<section id="component-variant">
-						<img src="images/carousel-component-02.png" alt="Carousel Compnent Variant">
-					</section>
-					<section id="component-use">
-						<h2>By finding patterns in our content, we are able to build reusable components</h2><br>
-						<h2 class="fragment">Components reduce our maintenance cost and make using our sites easier</h2>
-					</section>
+				<section id="matters">
+					<h2>Why This Matters</h2>
+					<p>Allows for a higher value monetization across platforms</p>
+					<p class="fragment">Reduces implementation costs for site owners</p>
+					<p class="fragment">Higher brand visibility for advertisers</p>
+					<p class="fragment">Richer experiences for users</p>
+					<p class="fragment">Future-facing implementation</p>
 				</section>
 
-				<section>
-					<section id="color-guides">
-						<h1>Color Guides</h1>
-						<p>Oh, and we can make color guides so we don't need to grasp for colors anymore</p>
-					</section>
-					<section id="color-guide">
-						<img src="images/color-guide.png" alt="Color Guide">
-					</section>
+				<section id="next-steps">
+					<h2>Next Steps</h2>
+					<h4>Questions To Be Answered</h4><br>
+					<p class="fragment">How does click tracking / impression tracking work?</p>
+					<p class="fragment">How do we handle pop-out ads?</p>
+					<br><h4 class="fragment">What We Need To Do</h4><br>
+					<p class="fragment">Get this reviewed</p>
+					<p class="fragment">Formalize the document into a specification</p>
+					<p class="fragment">Create a set of follow-up actions</p>
 				</section>
-
-				<section>
-					<section id="designing-prototypes">
-						<h1>Style Prototypes</h1>
-					</section>
-					<section id="style-prototypes">
-						<h2><a href="https://github.com/Team-Sass/generator-style-prototype">Style Prototypes</a></h2>
-						<p>A <a href="http://yeoman.io/">Yeoman</a> <a href="http://yeoman.io/community-generators.html">Generator</a> designed for building in-browser Style Tiles, Style Guides, Component Guides, and Color Guides</p>
-					</section>
-					<section id="install-prototypes">
-						<pre><code class="language-javascript">npm install -g generator-style-prototype</code></pre>
-					</section>
-					<section id="yo-prototype">
-						<pre><code class="language-javascript">yo style-prototype</code></pre><br>
-						<img src="images/yo-prototype.png" alt="Yo Prototype">
-					</section>
-					<section id="prototype-overview">
-						<p>Style Prototypes use <a href="http://gruntjs.com/">Grunt</a> for task running, <a href="http://sass-lang.com/">Sass</a>+<a href="http://compass-style.org/">Compass</a> for CSS, <a href="http://handlebarsjs.com/">Handlebars</a> for HTML, and <a href="http://bower.io/">Bower</a> for package management</p><br>
-						<p class="fragment">When you're finished, you can easily deploy your finished prototype to GitHub Pages or your own server</p><br>
-						<p class="fragment">You can also build a Compass Extension to provide a way to drop the finished styling directly into any project</p>
-					</section>
-					<section id="agile-prototypes">
-						<p>Designers and developer working together</p><br>
-						<p class="fragment">On one codebase</p>
-						<p class="fragment">Speaking the same language</p>
-						<p class="fragment">A fully integrated agile cycle</p>
-					</section>
-					<section id="finally">
-						<h2>Finally</h2>
-					</section>
-				</section>
-
-
 
 				<section id="thank-you">
 					<h1>Thank You</h1>
