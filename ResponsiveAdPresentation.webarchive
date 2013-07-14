@@ -1,0 +1,226 @@
+bplist00�_WebMainResource�	
+_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName^WebResourceURLOb�<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1187.39">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+  </style>
+</head>
+<body>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div class="slides"&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;h1&gt;Responsive Ads&lt;/h1&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;A look at a new specification for HTML5&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;Drupal Camp NYC Responsive Ad Sprint&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;img src="https://s3.amazonaws.com/media-p.slid.es/uploads/chrisstrahl/images/50356/DrupalCamp_ft.png"&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;July 14, 2013&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;h2&gt;The State of Responsive Ads&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;What we have:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Making it "good enough" without responsive ads&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;User agents&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Ad-swapping&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Ad-stretching&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;What we'd like:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Fully responsive ads&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;HTML5 and Media Query support&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;User interaction&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;h2&gt;The Big Problems&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left;"&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;How do we deliver a strong and scalable experience based on the platform being used?&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Can we deliver this experience based on a set of established best practices?&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;How do we improve the way that users are able to interact with advertisements regardless of the platform?&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;How can me marry ad best practices with those being used for responsive design?&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;h2&gt;Why HTML5&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;(and not Flash)&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;HTML5&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; position: absolute; width: 967px; height: 806px; z-index: 4; left: -5px; top: 197px;" class="absolute-element"&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Provides a wide range of design and interactive capabilities&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Has eclipsed other solutions in terms of click rate&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Impressions can be tracked on all platforms&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Has accessibility options&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;img src="https://s3.amazonaws.com/media-p.slid.es/uploads/chrisstrahl/images/50364/flash.png"&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;Flash&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Not platform agnostic&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Requires a plugin to function&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;h2&gt;What is Responsive Design?&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;h2&gt;What about other solutions?&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;(and why device detection doesn't work)&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;h2&gt;So, what's the right answer?&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;There are no silver bullets, only solutions&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;h2&gt;Approach&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">        </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;We want to create a standard approach to this problem. It includes a combination of technology:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;IFrames&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Intrinsic ratios&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Media queries&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;CSS&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;HTML5&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;h2&gt;Approach Details&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;Rich media:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;HTML5 video for cross-browser playback&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Responsive content for most valuable impact at any size&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;Interactive:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Cross-browser CSS animations without Flash&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Responsive animations&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;HTML5 Geolocation API&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;MapsAPI integration&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Commerce integration&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;h2&gt;Examples&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;Let's look at a few examples to illustrate our point. Here is what we're highlighting:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ol&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Rich media capabilities&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Interactive capabilities&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ol&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;Example 1 -&amp;nbsp;&lt;span&gt;http://dbtv.nbcuni.com/ads/new-video&lt;/span&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;Example 2 -&amp;nbsp;&lt;span&gt;http://dbtv.nbcuni.com/ads/new-rwd&lt;/span&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;h2&gt;Why This Matters&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Allows for a higher value monetization across platforms&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Reduces implementation costs for site owners&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Higher brand visibility for advertisers&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Richer experience for users&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Future-facing implementation&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;h2&gt;Next Steps&lt;/h2&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit"><span class="Apple-converted-space">    </span>&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;There are still questions that need to be answered:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;span&gt;How does click tracking / impression tracking work?&lt;/span&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;span&gt;How do we handle pop-out ads?&lt;/span&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;span&gt;Do nested IFrames work?&lt;/span&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;br&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;Here is what we need to do next:&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;div style="text-align: left; "&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Get this reviewed&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Formalize the document into a specification&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;li&gt;Create a set of follow-up actions&lt;/li&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/ul&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/section&gt;</a></p>
+<p class="p1"><a href="https://slid.es/chrisstrahl/responsiveads/edit">&lt;/div&gt;</a></p>
+</body>
+</html>
+Ytext/htmlUutf-8P_file:///index.html    ( : P n � �c8cBcHcI                           c^
